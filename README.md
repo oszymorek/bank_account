@@ -37,6 +37,7 @@ A simple App to quiz you on your React knowledge.
 
 https://project08-oszymorek.netlify.app/
 
+## Repository Structure
 ```sh
 └── bank_account/
     ├── README.md
