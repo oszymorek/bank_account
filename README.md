@@ -24,8 +24,6 @@
 
 ## Project #8 - Simple Bank Application
 
-A simple App to quiz you on your React knowledge. 
-
 <strong>Creation Process</strong> </br>
 <strong>Initialising the project:</strong> I used create-react-app to create the basic structure of the project.</br>
 <strong>Component creation:</strong> Each section of the page was implemented as a separate React component.</br>
